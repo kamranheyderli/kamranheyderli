@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
 # 💫 About Me:
-With experience in HTML, CSS, and JavaScript, as well as familiarity with<br>front-end frameworks like React js, I am eager to apply my skills to a career in<br>web development.<br>In addition to my work experience, I have completed several online courses in<br>front-end development, including a certification in Web Design from Udemy.<br>In my free time, I enjoy working on personal projects, such as creating a<br>website for a local non-profit organization.<br>I am a detail-oriented and analytical individual with excellent problem-solving<br>skills, which I believe will be valuable in front-end development. I am excited<br>to learn from experienced developers and continue building my skills in web<br>development.
+<h4 align="start" style="width: 100%; word-wrap: break-word;">With experience in HTML, CSS, and JavaScript, as well as familiarity with front-end frameworks like React js, I am eager to apply my skills to a career in web development. In addition to my work experience, I have completed several online courses in front-end development, including a certification in Web Design from Udemy. In my free time, I enjoy working on personal projects, such as creating a website for a local non-profit organization. I am a detail-oriented and analytical individual with excellent problem-solving skills, which I believe will be valuable in front-end development. I am excited to learn from experienced developers and continue building my skills in web development.</h4>
+
 
 
 ## 🌐 Socials:
